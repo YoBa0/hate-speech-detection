@@ -1,7 +1,19 @@
 # Hate Speech Detection Web App
 
-This project is a full-stack web application that detects hate speech in Arabic text using NLP and AI techniques. It consists of a **Flask backend**, a **React + Vite frontend**, and a **PostgreSQL** database.
+📌 **Project Description**
 
+This project is a full-stack web application that detects hate speech in Arabic text using NLP and AI techniques. It consists of a Flask backend, a React + Vite frontend, and a PostgreSQL database.
+
+👥 **Project Authors**
+- Bellibel Douaa
+
+- Habbati Malak
+
+- Baha Youcef
+
+- Ayoub Mohammed Ikbal
+
+- Boulhbal Haitem
 ---
 
 ## 🗂️ Project Structure
@@ -41,10 +53,13 @@ hate-speech-detection/
 1. **Navigate to the backend folder:**
    ```bash
    cd backend
+    ```
 
+   ```bash
    python -m venv venv
-   ```
-2. **Activate the virtual environment:**
+    ```
+  
+3. **Activate the virtual environment:**
 
    - Windows:
 
@@ -56,11 +71,11 @@ hate-speech-detection/
       ```bash
       source venv/bin/activate
       ```
-3. **Install dependencies:**
+4. **Install dependencies:**
      ```bash
      pip install -r requirements.txt
       ```
-4. **Configure the environment variables:**
+5. **Configure the environment variables:**
 
     Create a `.env` file in the `backend/` folder and add the following fields:
      ```plaintext
@@ -79,7 +94,7 @@ hate-speech-detection/
    
 
     ```
-5. **Creating postgres tables:**
+6. **Creating postgres tables:**
 
    Run the following SQL in your PostgreSQL database to set up the necessary tables:
    ```sql
@@ -116,7 +131,7 @@ hate-speech-detection/
 
 
 
-6. **Run the backend server:**
+7. **Run the backend server:**
 
     ```bash
      python app.py
