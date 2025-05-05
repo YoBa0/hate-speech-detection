@@ -5,15 +5,15 @@
 This project is a full-stack web application that detects hate speech in Arabic text using NLP and AI techniques. It consists of a Flask backend, a React + Vite frontend, and a PostgreSQL database.
 
 👥 **Project Authors**
+- Boulahbel Heythem
+  
+- Baha Youcef
+  
+- Ayoub Mohammed Ikbal
+  
 - Bellibel Douaa
 
 - Habbati Malak
-
-- Baha Youcef
-
-- Ayoub Mohammed Ikbal
-
-- Boulhbal Haitem
 ---
 
 ## 🗂️ Project Structure
